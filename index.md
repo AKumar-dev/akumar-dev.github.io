@@ -1,4 +1,4 @@
-## About
+# About
 
 My name is Akshay Kumar, and I am a senior at Georgetown University majoring in Computer Science (2016 - 2019). This webpage is dedicated to all the noteworthy projects - *the ones I have learned a great deal from* - I have completed. These include hackathon, personal, and class projects.
 
